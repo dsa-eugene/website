@@ -1,2 +1,2 @@
-# website
+# DSA Eugene
 wordpress theme
